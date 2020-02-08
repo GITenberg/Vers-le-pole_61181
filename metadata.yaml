@@ -1,5 +1,5 @@
 _repo: Vers-le-pole_61181
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Rabot, Charles
@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Charles_Rabot
     - https://en.wikipedia.org/wiki/Charles_Rabot
+covers:
+- cover_type: archival
+  image_path: 61181-h/images/cover.jpg
 creator:
   author:
     agent_name: Nansen, Fridtjof
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34437
     wikipedia: http://en.wikipedia.org/wiki/Fridtjof_Nansen
 description: 'Abridged translation of: Fram over Polhavet.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61181#Vers-le-pole
 gutenberg_bookshelf:
 - FR Voyages et pays
 - FR Nouveautés
