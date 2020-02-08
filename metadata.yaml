@@ -1,0 +1,43 @@
+_repo: Vers-le-pole_61181
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rabot, Charles
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '51300'
+    url: http://www.gutenberg.org/2009/agents/51300
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Charles_Rabot
+    - https://en.wikipedia.org/wiki/Charles_Rabot
+creator:
+  author:
+    agent_name: Nansen, Fridtjof
+    aliases:
+    - Nansen, Fridyof
+    - Nansen, Frityof
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '34437'
+    url: http://www.gutenberg.org/2009/agents/34437
+    wikipedia: http://en.wikipedia.org/wiki/Fridtjof_Nansen
+description: 'Abridged translation of: Fram over Polhavet.'
+gutenberg_bookshelf:
+- FR Voyages et pays
+- FR Nouveautés
+gutenberg_issued: '2020-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61181'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Nansen, Fridtjof, 1861-1930 -- Travel -- Arctic regions'
+- !lcsh '"Fram" Expedition (1893-1896)'
+- !lcsh 'Arctic regions -- Discovery and exploration'
+- GITenberg
+title: Vers le pôle
+url: http://www.gutenberg.org/ebooks/61181
